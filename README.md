@@ -1,3 +1,5 @@
+/\*\*
+
 # My FIRST NFT
 
 My NFT contract Address 0x0150308Aa97Ba41D02bACe1f21974e3930BB5c9B
@@ -39,3 +41,7 @@ then click on add custom token
 
 type this in chrome :
 https://gateway.pinata.cloud/ipfs/QmX5nV8XyDTkDLJ8uWkraVh9nR6tno8VhouPX2NV1LvtFi?_gl=1*10bb72z*_ga*MTEwNjUwNjExMC4xNjkzOTA5OTUx*_ga_5RMPXG14TE*MTY5MzkwOTk1MC4xLjEuMTY5MzkxMTA3MS42MC4wLjA.
+- ******************************************\*\******************************************* \*/
+
+
+
