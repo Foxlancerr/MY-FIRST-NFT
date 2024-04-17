@@ -39,7 +39,7 @@ then click on add custom token
 # How my NFT look
 
 type this in chrome :
-[click here to view this NFT]([https://gateway.pinata.cloud/ipfs/QmX5nV8XyDTkDLJ8uWkraVh9nR6tno8VhouPX2NV1LvtFi?_gl=1*10bb72z*_ga*MTEwNjUwNjExMC4xNjkzOTA5OTUx*_ga_5RMPXG14TE*MTY5MzkwOTk1MC4xLjEuMTY5MzkxMTA3MS42MC4wLjA.](https://testnets.opensea.io/assets/sepolia/0x0585b0f72e8996728fedd53f4ea8ee76de24bc59/2](https://testnets.opensea.io/assets/sepolia/0x0585b0f72e8996728fedd53f4ea8ee76de24bc59/1/))
+[click here to view this NFT](https://testnets.opensea.io/assets/sepolia/0x0585b0f72e8996728fedd53f4ea8ee76de24bc59/1/)
 
 
 
