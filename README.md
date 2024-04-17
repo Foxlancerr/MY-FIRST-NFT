@@ -25,7 +25,8 @@ panata
 
 # NFT DEPLOY ADDRESS
 
-The hash of your transaction in Sepolia testnet: [click here 0x4dd76ff535d3bb271084999c2167d4d473d0d16d55d75129a236b05b1c954cdc](https://sepolia.etherscan.io/tx/0x4dd76ff535d3bb271084999c2167d4d473d0d16d55d75129a236b05b1c954cdc)
+The hash of your transaction in Sepolia testnet: [Click Here To View Its Transiction](https://sepolia.etherscan.io/address/0x0585b0f72e8996728fedd53f4ea8ee76de24bc59)
+https://sepolia.etherscan.io/address/0x0585b0f72e8996728fedd53f4ea8ee76de24bc59
 Check Alchemy's Mempool to view the status of your transaction!
 
 # How to add that token in your Wallet
